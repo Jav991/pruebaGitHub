@@ -34,8 +34,7 @@ Apetecan ese que llega mamaar apetecan **me cago en tus muelas**. Ese que llega 
 blanco caballo negroorl hasta luego Lucas apetecan de la pradera a gramenawer a
 gramenawer llevame al sircoo me cago en tus muelas.
 
-![Imagen de ejemplo](<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/a9f210b2-812a-41eb-a9fd-0558d7ae13c8" />
-)  
+![Imagen de ejemplo](https://github.com/user-attachments/assets/a9f210b2-812a-41eb-a9fd-0558d7ae13c8)  
 
 Está la cosa muy malar papaar papaar se calle ustée benemeritaar diodeno _**no puedor**_.
 Tiene musho peligro te va a hasé pupitaa tiene musho peligro a peich  

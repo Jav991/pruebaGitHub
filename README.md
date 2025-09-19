@@ -9,13 +9,18 @@ Es una plataforma en la nube que funciona como un **almacén o portafolio** para
 
 ### Conceptos Clave  
 
-**Commit**, **Repositorio (repo)**, **Branch (rama)**, **Merge**, **Push**, **Pull**
+1.  **Commit**: Snapshots del código
+2.  **Repositorio**: Proyecto completo
+3.  **Branch**: Línea de desarrollo paralela
+4.  **Merge**: Unir ramas al código principal
+5.  **Push**: Subir cambios al repositorio remoto
+6.  **Pull**: Traer cambios del repositorio remoto
 
 ### Usos  
-**Control-versiones**
-**Colaboración**
-**Repositorios**
-**Open-source**  
+- **Control de Versiones**
+- **Colaboración** 
+- **Repositorios**
+- **Open Source** 
 
 ## Pasos a seguir para conseguir las diferentes acciones
 

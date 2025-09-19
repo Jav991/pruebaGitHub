@@ -1,4 +1,3 @@
-
 # Cómo instalar GitHub
 **Javier Gómez-Comino Comino**
 
@@ -23,4 +22,5 @@ Es una plataforma en la nube que funciona como un **almacén o portafolio** para
 ## Pasos a seguir para conseguir las diferentes acciones
 
 ### 1. Creación de Cuenta
+
 

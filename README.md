@@ -23,7 +23,6 @@ Es una plataforma en la nube que funciona como un **almacén o portafolio** para
 - **Open Source** 
 
 ## Pasos a seguir para conseguir las diferentes acciones
-
-1. Creación de Cuenta1. Ir a <a href="https://github.com/" target="_blank">GitHub</a>
+1. Ir a <a href="https://github.com/" target="_blank">GitHub</a>
 
 

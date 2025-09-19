@@ -11,6 +11,12 @@ Es una plataforma en la nube que funciona como un **almacén o portafolio** para
 
 **Commit**, **Repositorio (repo)**, **Branch (rama)**, **Merge**, **Push**, **Pull**
 
+### Usos  
+**Control-versiones**
+**Colaboración**
+**Repositorios**
+**Open-source**  
+
 ## Pasos a seguir para conseguir las diferentes acciones
 
 ### 1. Creación de Cuenta
